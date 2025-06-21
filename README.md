@@ -1,7 +1,5 @@
 # Howdy 👋
 
-Front-End Developer, passionate about creating engaging user experiences while staying up-to-date with emerging tech trends. Looking to collaborate on innovative solutions.
-
 ### Get in Touch
 
 <a href='https://www.linkedin.com/in/rodrigoesar/'><img src='https://img.shields.io/badge/linkedin-%230077B5?&style=for-the-badge&logo=linkedin&logoColor=white'/></a>
