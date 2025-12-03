@@ -16,7 +16,7 @@
         height="48"
         alt="JavaScript"
       />
-      <br/><strong>JavaScript</strong>
+      <br /><strong>JavaScript</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -25,7 +25,7 @@
         height="48"
         alt="TypeScript"
       />
-      <br/><strong>TypeScript</strong>
+      <br /><strong>TypeScript</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -34,7 +34,7 @@
         height="48"
         alt="HTML5"
       />
-      <br/><strong>HTML5</strong>
+      <br /><strong>HTML5</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -43,16 +43,7 @@
         height="48"
         alt="CSS"
       />
-      <br/><strong>CSS</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
-        width="48"
-        height="48"
-        alt="SASS"
-      />
-      <br/><strong>SASS</strong>
+      <br /><strong>CSS</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -61,10 +52,8 @@
         height="48"
         alt="React"
       />
-      <br/><strong>React</strong>
+      <br /><strong>React</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
@@ -72,16 +61,36 @@
         height="48"
         alt="Angular"
       />
-      <br/><strong>Angular</strong>
+      <br /><strong>Angular</strong>
     </td>
-        <td align="center" height="108" width="108">
+  </tr>
+  <tr>
+    <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
         width="48"
         height="48"
         alt="Node.js"
       />
-      <br/><strong>Node.js</strong>
+      <br /><strong>Node.js</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg"
+        width="48"
+        height="48"
+        alt="NestJS"
+      />
+      <br /><strong>NestJS</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+        width="48"
+        height="48"
+        alt="PostgreSQL"
+      />
+      <br /><strong>PostgreSQL</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -90,7 +99,16 @@
         height="48"
         alt="MySQL"
       />
-      <br/><strong>MySQL</strong>
+      <br /><strong>MySQL</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg"
+        width="48"
+        height="48"
+        alt="Prisma"
+      />
+      <br /><strong>Prisma</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -99,25 +117,7 @@
         height="48"
         alt="Jest"
       />
-      <br/><strong>Jest</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"
-        width="48"
-        height="48"
-        alt="Webpack"
-      />
-      <br/><strong>Webpack</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
-        width="48"
-        height="48"
-        alt="Firebase"
-      />
-      <br/><strong>Firebase</strong>
+      <br /><strong>Jest</strong>
     </td>
   </tr>
 </table>
