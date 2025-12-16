@@ -103,12 +103,12 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
         width="48"
         height="48"
-        alt="Prisma"
+        alt="Docker"
       />
-      <br /><strong>Prisma</strong>
+      <br /><strong>Docker</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
